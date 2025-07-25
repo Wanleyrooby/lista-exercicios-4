@@ -1,29 +1,30 @@
-Lista de Exercícios 4 — +PraTi
-Repositório contendo os arquivos referentes à Lista de Exercícios 4 da disciplina +PraTi. Este projeto foi desenvolvido com foco em prática de HTML e CSS.
+# Lista de Exercícios 4 — +PraTi
 
-📁 Estrutura do Projeto
-perfil.html: Página principal do exercício, contendo o conteúdo HTML.
+Repositório contendo os arquivos referentes à Lista de Exercícios 4 da disciplina **+PraTi**. Este projeto foi desenvolvido com foco em prática de HTML e CSS.
 
-styles.css: Folha de estilos CSS que define o layout e a aparência da página.
+## 📁 Estrutura do Projeto
 
-assets/: Pasta com imagens ou outros recursos utilizados no projeto.
+* `perfil.html`: Página principal do exercício, contendo o conteúdo HTML.
+* `styles.css`: Folha de estilos CSS que define o layout e a aparência da página.
+* `assets/`: Pasta com imagens ou outros recursos utilizados no projeto.
 
-💡 Objetivo
+## 💡 Objetivo
+
 O objetivo desta lista é reforçar os conceitos de:
 
-Estruturação semântica com HTML
+* Estruturação semântica com HTML
+* Estilização com CSS
+* Organização de projetos web simples
 
-Estilização com CSS
+## 🚀 Como visualizar
 
-Organização de projetos web simples
+Você pode abrir o arquivo `perfil.html` diretamente em um navegador para visualizar o exercício.
 
-🚀 Como visualizar
-Você pode abrir o arquivo perfil.html diretamente em um navegador para visualizar o exercício.
+## 🛠 Tecnologias Utilizadas
 
-🛠 Tecnologias Utilizadas
-HTML5
+* **HTML5**
+* **CSS3**
 
-CSS3
+## 🧑‍💻 Autor
 
-🧑‍💻 Autor
-Desenvolvido por Wanleyrooby
+Desenvolvido por [Wanleyrooby](https://github.com/Wanleyrooby)
